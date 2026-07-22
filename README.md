@@ -1,2 +1,20 @@
-# ai_based_code_review_assistant
-AI-Based Code Review Assistant is an AI-powered web application that analyzes uploaded source code, detects syntax errors, code quality issues, and security risks, and provides smart improvement suggestions. Built with Flask, SQLite, and Gemini API, it includes secure login, review history, and PDF reports.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/cb984946-74de-4597-8073-554f3e0b85ea
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

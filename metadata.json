@@ -1,0 +1,6 @@
+{
+  "name": "AI Code Review Assistant",
+  "description": "An industry-level SaaS platform for automated, deep AI code reviews, vulnerability detection, and code repair chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
